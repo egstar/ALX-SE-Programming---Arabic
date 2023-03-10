@@ -303,7 +303,7 @@ chown burham:admins file.txt
 
 لو محتاج اي حاجه ؟ تقدر تتواصل معايا على طول او تسيب كومنت هنا على الملف
 
-WhatsApp: wa.me/201102423786?txt=Hello
-Linkedin: linkedin.com/in/burham
+- WhatsApp: wa.me/201102423786?txt=Hello
+- Linkedin: linkedin.com/in/burham
 
 Burham B. Soliman
